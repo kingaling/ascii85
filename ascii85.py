@@ -1,5 +1,5 @@
 # This code requires the freebase function which can be located at my github repo:
-# https://github.com/xamiel
+# https://github.com/kingaling
 
 import re
 
